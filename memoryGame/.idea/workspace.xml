@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="memoryGame:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fc1a717-14c3-45d0-8683-9328b1f19361" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/10C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/10D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/10H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/10S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/2C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/2D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/2H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/2S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/3C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/3D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/3H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/3S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/4C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/4D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/4H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/4S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/5C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/5D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/5H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/5S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/6C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/6D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/6H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/6S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/7C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/7D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/7H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/7S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/8C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/8D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/8H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/8S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/9C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/9D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/9H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/9S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/AC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/AD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/AH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/AS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/JC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/JD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/JH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/JS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/KC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/KD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/KH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/KS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/QC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/QD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/QH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/QS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Cards/blue_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/cardflip (incompatible).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/cardflip-old1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/cardflip.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/shuffle (incompatible).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/shuffle.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/win (incompatible).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Asset Originals/Sounds/win.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/CS 1400 final paragraph.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Submissions/Memory (Final) ver. 1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Submissions/Memory (Final) ver. 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentation/Submissions/Memory (Final) ver. 3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Memory (Final).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MemoryGame.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MemoryGame.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/.idea/artifacts/Memory__Final__jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/.idea/libraries/Submissions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/.idea/libraries/memoryGame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/10C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/10D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/10H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/10S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/2C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/2D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/2H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/2S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/3C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/3D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/3H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/3S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/4C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/4D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/4H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/4S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/5C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/5D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/5H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/5S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/6C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/6D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/6H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/6S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/7C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/7D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/7H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/7S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/8C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/8D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/8H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/8S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/9C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/9D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/9H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/9S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/AC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/AD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/AH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/AS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/JC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/JD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/JH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/JS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/KC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/KD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/KH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/KS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/QC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/QD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/QH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/QS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Cards/blue_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/cardflip (incompatible).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/cardflip-old1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/cardflip.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/shuffle (incompatible).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/shuffle.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/win (incompatible).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Asset Originals/Sounds/win.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/CS 1400 final paragraph.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Submissions/Memory (Final) ver. 1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Submissions/Memory (Final) ver. 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Documentation/Submissions/Memory (Final) ver. 3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/Memory (Final).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/MemoryGame.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/MemoryGame.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/Card9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Cards/blue_back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Sounds/cardflip1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Sounds/cardflip2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Sounds/shuffle.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/Assets/Sounds/win.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/memoryGame/MemGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Memory (Final)/scorelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scorelog.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2h7FYCnSAh9ilhixO2Y81eN2Lwe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nicki/OneDrive/Documents/College/2020b Fall Semester/CS 1400 - Programming 1/Java Projects/Memory (Final)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="memoryGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="memoryGame" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc1a717-14c3-45d0-8683-9328b1f19361" name="Changes" comment="" />
+      <created>1716937255487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716937255487</updated>
+      <workItem from="1716937256565" duration="241000" />
+      <workItem from="1716937511384" duration="60000" />
+      <workItem from="1716937575591" duration="58000" />
+      <workItem from="1716937694795" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
